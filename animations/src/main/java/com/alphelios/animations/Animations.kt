@@ -109,4 +109,11 @@ object Animations {
                 R.anim.animate_slide_up_exit
         )
     }
+
+    fun animateQuick(context: Context) {
+        (context as Activity).overridePendingTransition(
+            R.anim.slide_in_up,
+            R.anim.slide_out_up
+        )
+    }
 }
