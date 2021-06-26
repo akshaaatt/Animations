@@ -1,8 +1,7 @@
-package com.alphelios.animations
+package com.limerse.animations
 
 import android.app.Activity
 import android.content.Context
-import com.limerse.animations.R
 
 object Animations {
     fun animateZoom(context: Context) {

@@ -1,4 +1,4 @@
-package com.alphelios.animationslibrary
+package com.limerse.animationslibrary
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
