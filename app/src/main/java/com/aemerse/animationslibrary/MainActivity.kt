@@ -1,4 +1,4 @@
-package com.limerse.animationslibrary
+package com.aemerse.animationslibrary
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

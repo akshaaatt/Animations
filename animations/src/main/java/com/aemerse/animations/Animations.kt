@@ -1,4 +1,4 @@
-package com.limerse.animations
+package com.aemerse.animations
 
 import android.app.Activity
 import android.content.Context
